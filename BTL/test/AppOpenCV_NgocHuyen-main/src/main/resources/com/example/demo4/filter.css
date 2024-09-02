@@ -1,0 +1,94 @@
+#root {
+    -fx-background-image: url('interface/FilterController.png');
+    -fx-background-size: cover;
+    -fx-background-position: center;
+    -fx-background-repeat: no-repeat;
+}
+#button_filter1 {
+    -fx-background-color: transparent;
+        -fx-background-insets: 0,9 9 8 9,9,10,11;
+        -fx-background-radius: 50;
+        -fx-padding: 15 25 15 25;
+}
+
+#button_filter1:hover {
+    -fx-background-color: transparent;
+        -fx-background-insets: 0,9 9 8 9,9,0,11;
+        -fx-background-radius: 50;
+}
+
+#button_filter2 {
+    -fx-background-color: transparent;
+        -fx-background-insets: 0,9 9 8 9,9,10,11;
+        -fx-background-radius: 50;
+        -fx-padding: 15 25 15 25;
+}
+
+
+#button_filter2:hover {
+    -fx-background-color: transparent;
+        -fx-background-insets: 0,9 9 8 9,9,0,11;
+        -fx-background-radius: 50;
+}
+
+#button_filter3 {
+    -fx-background-color: transparent;
+        -fx-background-insets: 0,9 9 8 9,9,10,11;
+        -fx-background-radius: 50;
+        -fx-padding: 15 25 15 25;
+}
+
+#button_filter3:hover {
+    -fx-background-color: transparent;
+        -fx-background-insets: 0,9 9 8 9,9,0,11;
+        -fx-background-radius: 50;
+}
+
+
+#button_filter4 {
+    -fx-background-color: transparent;
+        -fx-background-insets: 0,9 9 8 9,9,10,11;
+        -fx-background-radius: 50;
+        -fx-padding: 15 25 15 25;
+}
+#button_filter4:hover {
+    -fx-background-color: transparent;
+        -fx-background-insets: 0,9 9 8 9,9,0,11;
+        -fx-background-radius: 50;
+}
+
+
+#back {
+    -fx-background-color: transparent;
+    -fx-background-insets: 0,9 9 8 9,9,10,11;
+    -fx-background-radius: 50;
+    -fx-padding: 15 25 15 25;
+}
+
+#back:hover {
+    -fx-background-color: transparent;
+    -fx-background-insets: 0,9 9 8 9,9,0,11;
+    -fx-background-radius: 50;
+}
+
+#done {
+    -fx-background-color: transparent;
+    -fx-background-insets: 0,9 9 8 9,9,10,11;
+    -fx-background-radius: 50;
+    -fx-padding: 15 25 15 25;
+}
+
+#done:hover {
+    -fx-background-color: transparent;
+    -fx-background-insets: 0,9 9 8 9,9,0,11;
+    -fx-background-radius: 50;
+}
+
+scrollpane {
+    -fx-background-color: transparent; /* Nền trong suốt */
+    -fx-padding: 15 25 15 25; /* Cách viền */
+}
+
+.scroll-pane .viewport {
+    -fx-background-color: transparent; /* Nền trong suốt cho viewport */
+}
